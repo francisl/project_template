@@ -79,4 +79,5 @@ export const Compact: Story = {
       </CardContent>
     </Card>
   ),
-}; 
+};
+ 
